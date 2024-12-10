@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+}
+header{
+    text-align: center;
+    background-color: rgb(235, 201, 170);
+    margin-bottom: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.divheader{
+    background-color: rgb(255, 255, 255);
+    margin: 0 500px;
+    padding: 20px;
+    border-radius: 20px;
+}
+a{
+    color: rgb(71, 71, 71);
+    font-size: larger;
+}
+h1{
+    margin: 40px 300px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(41, 41, 41);
+}
+li{
+    color: rgb(56, 56, 56);
+}
+.div{
+    background-color: rgb(255, 255, 255);
+    margin: 50px;
+    padding: 50px;
+    padding: 15px;
+    border-radius: 6px;
+}
+.divbackg{
+    background-image: url(Dkep.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    border-radius: 10px;
+    margin: 50px 300px;
+    padding: 20px;
+}
